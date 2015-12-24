@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 0fcfe88189ab9da4f9bf3ffa97ed5f2e
+timeCreated: 1448962512
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bzbutt280
+    100004: Bzeyeb250
+    100006: Bzeyew240
+    100008: Bzhair
+    100010: Bzhipb110
+    100012: Bzlips270
+    100014: Head
+    100016: hycoat
+    100018: hycoat230
+    100020: hyctbu190
+    100022: hypeng200
+    100024: hypeng220
+    100026: hypenr210
+    100028: hyspec280
+    100030: L Foot
+    100032: L Forearm
+    100034: L Hand
+    100036: L Knee
+    100038: L Thigh
+    100040: L Upper Ar
+    100042: LFoot40
+    100044: LToes
+    100046: Neck
+    100048: R Foot
+    100050: R Forearm
+    100052: R Hand
+    100054: R Knee
+    100056: R Thigh
+    100058: R Upper Ar
+    100060: RFoot90
+    100062: RToes
+    100064: UpperBack
+    400000: //RootNode
+    400002: Bzbutt280
+    400004: Bzeyeb250
+    400006: Bzeyew240
+    400008: Bzhair
+    400010: Bzhipb110
+    400012: Bzlips270
+    400014: Head
+    400016: hycoat
+    400018: hycoat230
+    400020: hyctbu190
+    400022: hypeng200
+    400024: hypeng220
+    400026: hypenr210
+    400028: hyspec280
+    400030: L Foot
+    400032: L Forearm
+    400034: L Hand
+    400036: L Knee
+    400038: L Thigh
+    400040: L Upper Ar
+    400042: LFoot40
+    400044: LToes
+    400046: Neck
+    400048: R Foot
+    400050: R Forearm
+    400052: R Hand
+    400054: R Knee
+    400056: R Thigh
+    400058: R Upper Ar
+    400060: RFoot90
+    400062: RToes
+    400064: UpperBack
+    2300000: //RootNode
+    2300002: Bzbutt280
+    2300004: Bzeyeb250
+    2300006: Bzeyew240
+    2300008: Bzhair
+    2300010: Bzhipb110
+    2300012: Bzlips270
+    2300014: Head
+    2300016: hycoat
+    2300018: hycoat230
+    2300020: hyctbu190
+    2300022: hypeng200
+    2300024: hypeng220
+    2300026: hypenr210
+    2300028: hyspec280
+    2300030: L Foot
+    2300032: L Forearm
+    2300034: L Hand
+    2300036: L Knee
+    2300038: L Thigh
+    2300040: L Upper Ar
+    2300042: LFoot40
+    2300044: LToes
+    2300046: Neck
+    2300048: R Foot
+    2300050: R Forearm
+    2300052: R Hand
+    2300054: R Knee
+    2300056: R Thigh
+    2300058: R Upper Ar
+    2300060: RFoot90
+    2300062: RToes
+    2300064: UpperBack
+    3300000: //RootNode
+    3300002: Bzbutt280
+    3300004: Bzeyeb250
+    3300006: Bzeyew240
+    3300008: Bzhair
+    3300010: Bzhipb110
+    3300012: Bzlips270
+    3300014: Head
+    3300016: hycoat
+    3300018: hycoat230
+    3300020: hyctbu190
+    3300022: hypeng200
+    3300024: hypeng220
+    3300026: hypenr210
+    3300028: hyspec280
+    3300030: L Foot
+    3300032: L Forearm
+    3300034: L Hand
+    3300036: L Knee
+    3300038: L Thigh
+    3300040: L Upper Ar
+    3300042: LFoot40
+    3300044: LToes
+    3300046: Neck
+    3300048: R Foot
+    3300050: R Forearm
+    3300052: R Hand
+    3300054: R Knee
+    3300056: R Thigh
+    3300058: R Upper Ar
+    3300060: RFoot90
+    3300062: RToes
+    3300064: UpperBack
+    4300000: Pelvis
+    4300002: R Thigh
+    4300004: R Knee
+    4300006: R Foot
+    4300008: RFoot90
+    4300010: RToes
+    4300012: L Thigh
+    4300014: L Knee
+    4300016: L Foot
+    4300018: LFoot40
+    4300020: LToes
+    4300022: UpperBack
+    4300024: R Upper Ar
+    4300026: R Forearm
+    4300028: R Hand
+    4300030: L Upper Ar
+    4300032: L Forearm
+    4300034: L Hand
+    4300036: hycoat
+    4300038: hycoat230
+    4300040: hypeng220
+    4300042: hypenr210
+    4300044: Neck
+    4300046: Head
+    4300048: Bzhair
+    4300050: hyspec280
+    4300052: Bzlips270
+    4300054: Bzeyew240
+    4300056: Bzeyeb250
+    4300058: hypeng200
+    4300060: hyctbu190
+    4300062: Bzbutt280
+    4300064: Bzhipb110
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

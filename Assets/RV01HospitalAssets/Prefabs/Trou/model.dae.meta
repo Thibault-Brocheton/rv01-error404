@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: 37ea248d9b2eabd429bd9c596eb70058
+timeCreated: 1450446526
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ID35
+    100002: ID45
+    100004: instance_0
+    100006: instance_1
+    100008: instance_2
+    100010: instance_2 1
+    100012: instance_3
+    100014: instance_4
+    100016: //RootNode
+    100018: Navy_Blue_Black_Hole_Ring
+    100020: Reddish_Black_Hole_Ring
+    100022: Reddish_Black_Hole_Ring 1
+    100024: Regular_Black_Hole_Ring
+    100026: Regular_Black_Hole_Ring 1
+    100028: Regular_Black_Hole_Ring 2
+    400000: ID35
+    400002: ID45
+    400004: instance_0
+    400006: instance_1
+    400008: instance_2
+    400010: instance_2 1
+    400012: instance_3
+    400014: instance_4
+    400016: //RootNode
+    400018: Navy_Blue_Black_Hole_Ring
+    400020: Reddish_Black_Hole_Ring
+    400022: Reddish_Black_Hole_Ring 1
+    400024: Regular_Black_Hole_Ring
+    400026: Regular_Black_Hole_Ring 1
+    400028: Regular_Black_Hole_Ring 2
+    2300000: ID35
+    2300002: ID45
+    2300004: //RootNode
+    2300006: Regular_Black_Hole_Ring
+    2300008: Regular_Black_Hole_Ring 1
+    2300010: Regular_Black_Hole_Ring 2
+    3300000: ID35
+    3300002: ID45
+    3300004: //RootNode
+    3300006: Regular_Black_Hole_Ring
+    3300008: Regular_Black_Hole_Ring 1
+    3300010: Regular_Black_Hole_Ring 2
+    4300000: SketchUp
+    4300002: ID35
+    4300004: ID45
+    4300006: Regular_Black_Hole_Ring
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,701 @@
+fileFormatVersion: 2
+guid: cc01f95982bd9ab4299791633cdbca00
+timeCreated: 1447424602
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: wheel _002
+    100004: wheel _003
+    100006: wheel _004
+    100008: wheel _005
+    100010: wheel _006
+    100012: wheel _007
+    100014: wheel _008
+    100016: wheel _009
+    100018: wheel _010
+    100020: wheel _011
+    100022: wheel _012
+    100024: wheel _013
+    100026: wheel _014
+    100028: wheel _015
+    100030: wheel _016
+    100032: wheel _017
+    100034: wheel _018
+    100036: wheel _019
+    100038: wheel _020
+    100040: wheel _021
+    100042: wheel _022
+    100044: wheel _023
+    100046: wheel _024
+    100048: wheel _025
+    100050: wheel _026
+    100052: wheel _027
+    100054: wheel _028
+    100056: wheel _029
+    100058: wheel _030
+    100060: wheel _031
+    100062: wheel _032
+    100064: wheel _033
+    100066: wheel _034
+    100068: wheel _035
+    100070: wheel _036
+    100072: wheel _037
+    100074: wheel _038
+    100076: wheel _039
+    100078: wheel _040
+    100080: wheel _041
+    100082: wheel _042
+    100084: wheel _043
+    100086: wheel _044
+    100088: wheel _045
+    100090: wheel _046
+    100092: wheel _047
+    100094: wheel _048
+    100096: wheel _049
+    100098: wheel _050
+    100100: wheel _051
+    100102: wheel _052
+    100104: wheel _053
+    100106: wheel _054
+    100108: wheel _055
+    100110: wheel _056
+    100112: wheel _057
+    100114: wheel _058
+    100116: wheel _059
+    100118: wheel _060
+    100120: wheel _061
+    100122: wheel _062
+    100124: wheel _063
+    100126: wheel _064
+    100128: wheel _065
+    100130: wheel _066
+    100132: wheel _067
+    100134: wheel _068
+    100136: wheel _069
+    100138: wheel _070
+    100140: wheel _071
+    100142: wheel _072
+    100144: wheel _073
+    100146: wheel _074
+    100148: wheel _075
+    100150: wheel _076
+    100152: wheel _077
+    100154: wheel _078
+    100156: wheel _079
+    100158: wheel _080
+    100160: wheel _081
+    100162: wheel _082
+    100164: wheel _083
+    100166: wheel _084
+    100168: wheel _085
+    100170: wheel _086
+    100172: wheel _087
+    100174: wheel _088
+    100176: wheel _089
+    100178: wheel _090
+    100180: wheel _091
+    100182: wheel _092
+    100184: wheel _093
+    100186: wheel _094
+    100188: wheel _095
+    100190: wheel _096
+    100192: wheel _097
+    100194: wheel _098
+    100196: wheel _099
+    100198: wheel _100
+    100200: wheel _101
+    100202: wheel _102
+    100204: wheel _103
+    100206: wheel _104
+    100208: wheel _105
+    100210: wheel _106
+    100212: wheel _107
+    100214: wheel _108
+    100216: wheel _109
+    100218: wheel _110
+    100220: wheel _111
+    100222: wheel _112
+    100224: wheel _113
+    100226: wheel _114
+    100228: wheel _115
+    100230: wheel _116
+    100232: wheel _117
+    100234: wheel _118
+    100236: wheel _119
+    100238: wheel _120
+    100240: wheel _121
+    100242: wheel _122
+    100244: wheel _123
+    100246: wheel _124
+    100248: wheel _125
+    100250: wheel _126
+    100252: wheel chai
+    400000: //RootNode
+    400002: wheel _002
+    400004: wheel _003
+    400006: wheel _004
+    400008: wheel _005
+    400010: wheel _006
+    400012: wheel _007
+    400014: wheel _008
+    400016: wheel _009
+    400018: wheel _010
+    400020: wheel _011
+    400022: wheel _012
+    400024: wheel _013
+    400026: wheel _014
+    400028: wheel _015
+    400030: wheel _016
+    400032: wheel _017
+    400034: wheel _018
+    400036: wheel _019
+    400038: wheel _020
+    400040: wheel _021
+    400042: wheel _022
+    400044: wheel _023
+    400046: wheel _024
+    400048: wheel _025
+    400050: wheel _026
+    400052: wheel _027
+    400054: wheel _028
+    400056: wheel _029
+    400058: wheel _030
+    400060: wheel _031
+    400062: wheel _032
+    400064: wheel _033
+    400066: wheel _034
+    400068: wheel _035
+    400070: wheel _036
+    400072: wheel _037
+    400074: wheel _038
+    400076: wheel _039
+    400078: wheel _040
+    400080: wheel _041
+    400082: wheel _042
+    400084: wheel _043
+    400086: wheel _044
+    400088: wheel _045
+    400090: wheel _046
+    400092: wheel _047
+    400094: wheel _048
+    400096: wheel _049
+    400098: wheel _050
+    400100: wheel _051
+    400102: wheel _052
+    400104: wheel _053
+    400106: wheel _054
+    400108: wheel _055
+    400110: wheel _056
+    400112: wheel _057
+    400114: wheel _058
+    400116: wheel _059
+    400118: wheel _060
+    400120: wheel _061
+    400122: wheel _062
+    400124: wheel _063
+    400126: wheel _064
+    400128: wheel _065
+    400130: wheel _066
+    400132: wheel _067
+    400134: wheel _068
+    400136: wheel _069
+    400138: wheel _070
+    400140: wheel _071
+    400142: wheel _072
+    400144: wheel _073
+    400146: wheel _074
+    400148: wheel _075
+    400150: wheel _076
+    400152: wheel _077
+    400154: wheel _078
+    400156: wheel _079
+    400158: wheel _080
+    400160: wheel _081
+    400162: wheel _082
+    400164: wheel _083
+    400166: wheel _084
+    400168: wheel _085
+    400170: wheel _086
+    400172: wheel _087
+    400174: wheel _088
+    400176: wheel _089
+    400178: wheel _090
+    400180: wheel _091
+    400182: wheel _092
+    400184: wheel _093
+    400186: wheel _094
+    400188: wheel _095
+    400190: wheel _096
+    400192: wheel _097
+    400194: wheel _098
+    400196: wheel _099
+    400198: wheel _100
+    400200: wheel _101
+    400202: wheel _102
+    400204: wheel _103
+    400206: wheel _104
+    400208: wheel _105
+    400210: wheel _106
+    400212: wheel _107
+    400214: wheel _108
+    400216: wheel _109
+    400218: wheel _110
+    400220: wheel _111
+    400222: wheel _112
+    400224: wheel _113
+    400226: wheel _114
+    400228: wheel _115
+    400230: wheel _116
+    400232: wheel _117
+    400234: wheel _118
+    400236: wheel _119
+    400238: wheel _120
+    400240: wheel _121
+    400242: wheel _122
+    400244: wheel _123
+    400246: wheel _124
+    400248: wheel _125
+    400250: wheel _126
+    400252: wheel chai
+    2300000: wheel _002
+    2300002: wheel _003
+    2300004: wheel _004
+    2300006: wheel _005
+    2300008: wheel _006
+    2300010: wheel _007
+    2300012: wheel _008
+    2300014: wheel _009
+    2300016: wheel _010
+    2300018: wheel _011
+    2300020: wheel _012
+    2300022: wheel _013
+    2300024: wheel _014
+    2300026: wheel _015
+    2300028: wheel _016
+    2300030: wheel _017
+    2300032: wheel _018
+    2300034: wheel _019
+    2300036: wheel _020
+    2300038: wheel _021
+    2300040: wheel _022
+    2300042: wheel _023
+    2300044: wheel _024
+    2300046: wheel _025
+    2300048: wheel _026
+    2300050: wheel _027
+    2300052: wheel _028
+    2300054: wheel _029
+    2300056: wheel _030
+    2300058: wheel _031
+    2300060: wheel _032
+    2300062: wheel _033
+    2300064: wheel _034
+    2300066: wheel _035
+    2300068: wheel _036
+    2300070: wheel _037
+    2300072: wheel _038
+    2300074: wheel _039
+    2300076: wheel _040
+    2300078: wheel _041
+    2300080: wheel _042
+    2300082: wheel _043
+    2300084: wheel _044
+    2300086: wheel _045
+    2300088: wheel _046
+    2300090: wheel _047
+    2300092: wheel _048
+    2300094: wheel _049
+    2300096: wheel _050
+    2300098: wheel _051
+    2300100: wheel _052
+    2300102: wheel _053
+    2300104: wheel _054
+    2300106: wheel _055
+    2300108: wheel _056
+    2300110: wheel _057
+    2300112: wheel _058
+    2300114: wheel _059
+    2300116: wheel _060
+    2300118: wheel _061
+    2300120: wheel _062
+    2300122: wheel _063
+    2300124: wheel _064
+    2300126: wheel _065
+    2300128: wheel _066
+    2300130: wheel _067
+    2300132: wheel _068
+    2300134: wheel _069
+    2300136: wheel _070
+    2300138: wheel _071
+    2300140: wheel _072
+    2300142: wheel _073
+    2300144: wheel _074
+    2300146: wheel _075
+    2300148: wheel _076
+    2300150: wheel _077
+    2300152: wheel _078
+    2300154: wheel _079
+    2300156: wheel _080
+    2300158: wheel _081
+    2300160: wheel _082
+    2300162: wheel _083
+    2300164: wheel _084
+    2300166: wheel _085
+    2300168: wheel _086
+    2300170: wheel _087
+    2300172: wheel _088
+    2300174: wheel _089
+    2300176: wheel _090
+    2300178: wheel _091
+    2300180: wheel _092
+    2300182: wheel _093
+    2300184: wheel _094
+    2300186: wheel _095
+    2300188: wheel _096
+    2300190: wheel _097
+    2300192: wheel _098
+    2300194: wheel _099
+    2300196: wheel _100
+    2300198: wheel _101
+    2300200: wheel _102
+    2300202: wheel _103
+    2300204: wheel _104
+    2300206: wheel _105
+    2300208: wheel _106
+    2300210: wheel _107
+    2300212: wheel _108
+    2300214: wheel _109
+    2300216: wheel _110
+    2300218: wheel _111
+    2300220: wheel _112
+    2300222: wheel _113
+    2300224: wheel _114
+    2300226: wheel _115
+    2300228: wheel _116
+    2300230: wheel _117
+    2300232: wheel _118
+    2300234: wheel _119
+    2300236: wheel _120
+    2300238: wheel _121
+    2300240: wheel _122
+    2300242: wheel _123
+    2300244: wheel _124
+    2300246: wheel _125
+    2300248: wheel _126
+    2300250: wheel chai
+    3300000: wheel _002
+    3300002: wheel _003
+    3300004: wheel _004
+    3300006: wheel _005
+    3300008: wheel _006
+    3300010: wheel _007
+    3300012: wheel _008
+    3300014: wheel _009
+    3300016: wheel _010
+    3300018: wheel _011
+    3300020: wheel _012
+    3300022: wheel _013
+    3300024: wheel _014
+    3300026: wheel _015
+    3300028: wheel _016
+    3300030: wheel _017
+    3300032: wheel _018
+    3300034: wheel _019
+    3300036: wheel _020
+    3300038: wheel _021
+    3300040: wheel _022
+    3300042: wheel _023
+    3300044: wheel _024
+    3300046: wheel _025
+    3300048: wheel _026
+    3300050: wheel _027
+    3300052: wheel _028
+    3300054: wheel _029
+    3300056: wheel _030
+    3300058: wheel _031
+    3300060: wheel _032
+    3300062: wheel _033
+    3300064: wheel _034
+    3300066: wheel _035
+    3300068: wheel _036
+    3300070: wheel _037
+    3300072: wheel _038
+    3300074: wheel _039
+    3300076: wheel _040
+    3300078: wheel _041
+    3300080: wheel _042
+    3300082: wheel _043
+    3300084: wheel _044
+    3300086: wheel _045
+    3300088: wheel _046
+    3300090: wheel _047
+    3300092: wheel _048
+    3300094: wheel _049
+    3300096: wheel _050
+    3300098: wheel _051
+    3300100: wheel _052
+    3300102: wheel _053
+    3300104: wheel _054
+    3300106: wheel _055
+    3300108: wheel _056
+    3300110: wheel _057
+    3300112: wheel _058
+    3300114: wheel _059
+    3300116: wheel _060
+    3300118: wheel _061
+    3300120: wheel _062
+    3300122: wheel _063
+    3300124: wheel _064
+    3300126: wheel _065
+    3300128: wheel _066
+    3300130: wheel _067
+    3300132: wheel _068
+    3300134: wheel _069
+    3300136: wheel _070
+    3300138: wheel _071
+    3300140: wheel _072
+    3300142: wheel _073
+    3300144: wheel _074
+    3300146: wheel _075
+    3300148: wheel _076
+    3300150: wheel _077
+    3300152: wheel _078
+    3300154: wheel _079
+    3300156: wheel _080
+    3300158: wheel _081
+    3300160: wheel _082
+    3300162: wheel _083
+    3300164: wheel _084
+    3300166: wheel _085
+    3300168: wheel _086
+    3300170: wheel _087
+    3300172: wheel _088
+    3300174: wheel _089
+    3300176: wheel _090
+    3300178: wheel _091
+    3300180: wheel _092
+    3300182: wheel _093
+    3300184: wheel _094
+    3300186: wheel _095
+    3300188: wheel _096
+    3300190: wheel _097
+    3300192: wheel _098
+    3300194: wheel _099
+    3300196: wheel _100
+    3300198: wheel _101
+    3300200: wheel _102
+    3300202: wheel _103
+    3300204: wheel _104
+    3300206: wheel _105
+    3300208: wheel _106
+    3300210: wheel _107
+    3300212: wheel _108
+    3300214: wheel _109
+    3300216: wheel _110
+    3300218: wheel _111
+    3300220: wheel _112
+    3300222: wheel _113
+    3300224: wheel _114
+    3300226: wheel _115
+    3300228: wheel _116
+    3300230: wheel _117
+    3300232: wheel _118
+    3300234: wheel _119
+    3300236: wheel _120
+    3300238: wheel _121
+    3300240: wheel _122
+    3300242: wheel _123
+    3300244: wheel _124
+    3300246: wheel _125
+    3300248: wheel _126
+    3300250: wheel chai
+    4300000: wheel chai
+    4300002: wheel _002
+    4300004: wheel _003
+    4300006: wheel _004
+    4300008: wheel _005
+    4300010: wheel _006
+    4300012: wheel _007
+    4300014: wheel _008
+    4300016: wheel _009
+    4300018: wheel _010
+    4300020: wheel _011
+    4300022: wheel _012
+    4300024: wheel _013
+    4300026: wheel _014
+    4300028: wheel _015
+    4300030: wheel _016
+    4300032: wheel _017
+    4300034: wheel _018
+    4300036: wheel _019
+    4300038: wheel _020
+    4300040: wheel _021
+    4300042: wheel _022
+    4300044: wheel _023
+    4300046: wheel _024
+    4300048: wheel _025
+    4300050: wheel _026
+    4300052: wheel _027
+    4300054: wheel _028
+    4300056: wheel _029
+    4300058: wheel _030
+    4300060: wheel _031
+    4300062: wheel _032
+    4300064: wheel _033
+    4300066: wheel _034
+    4300068: wheel _035
+    4300070: wheel _036
+    4300072: wheel _037
+    4300074: wheel _038
+    4300076: wheel _039
+    4300078: wheel _040
+    4300080: wheel _041
+    4300082: wheel _042
+    4300084: wheel _043
+    4300086: wheel _044
+    4300088: wheel _045
+    4300090: wheel _046
+    4300092: wheel _047
+    4300094: wheel _048
+    4300096: wheel _049
+    4300098: wheel _050
+    4300100: wheel _051
+    4300102: wheel _052
+    4300104: wheel _053
+    4300106: wheel _054
+    4300108: wheel _055
+    4300110: wheel _056
+    4300112: wheel _057
+    4300114: wheel _058
+    4300116: wheel _059
+    4300118: wheel _060
+    4300120: wheel _061
+    4300122: wheel _062
+    4300124: wheel _063
+    4300126: wheel _064
+    4300128: wheel _065
+    4300130: wheel _066
+    4300132: wheel _067
+    4300134: wheel _068
+    4300136: wheel _069
+    4300138: wheel _070
+    4300140: wheel _071
+    4300142: wheel _072
+    4300144: wheel _073
+    4300146: wheel _074
+    4300148: wheel _075
+    4300150: wheel _076
+    4300152: wheel _077
+    4300154: wheel _078
+    4300156: wheel _079
+    4300158: wheel _080
+    4300160: wheel _081
+    4300162: wheel _082
+    4300164: wheel _083
+    4300166: wheel _084
+    4300168: wheel _085
+    4300170: wheel _086
+    4300172: wheel _087
+    4300174: wheel _088
+    4300176: wheel _089
+    4300178: wheel _090
+    4300180: wheel _091
+    4300182: wheel _092
+    4300184: wheel _093
+    4300186: wheel _094
+    4300188: wheel _095
+    4300190: wheel _096
+    4300192: wheel _097
+    4300194: wheel _098
+    4300196: wheel _099
+    4300198: wheel _100
+    4300200: wheel _101
+    4300202: wheel _102
+    4300204: wheel _103
+    4300206: wheel _104
+    4300208: wheel _105
+    4300210: wheel _106
+    4300212: wheel _107
+    4300214: wheel _108
+    4300216: wheel _109
+    4300218: wheel _110
+    4300220: wheel _111
+    4300222: wheel _112
+    4300224: wheel _113
+    4300226: wheel _114
+    4300228: wheel _115
+    4300230: wheel _116
+    4300232: wheel _117
+    4300234: wheel _118
+    4300236: wheel _119
+    4300238: wheel _120
+    4300240: wheel _121
+    4300242: wheel _122
+    4300244: wheel _123
+    4300246: wheel _124
+    4300248: wheel _125
+    4300250: wheel _126
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

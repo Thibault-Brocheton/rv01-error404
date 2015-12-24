@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 1348dfd1054d8dd40af1ca3c20605161
+timeCreated: 1449072038
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ArchExter1
+    100002: ArchExter2
+    100004: ArchExter3
+    100006: ArchExter4
+    100008: ArchExter5
+    100010: ArchExter6
+    100012: ArchExter7
+    100014: ArchExter8
+    100016: Archexteri
+    100018: Box07
+    100020: doska_coko
+    100022: doska_Klum
+    100024: //RootNode
+    100026: ground_klu
+    100028: sub01
+    100030: sub02
+    400000: ArchExter1
+    400002: ArchExter2
+    400004: ArchExter3
+    400006: ArchExter4
+    400008: ArchExter5
+    400010: ArchExter6
+    400012: ArchExter7
+    400014: ArchExter8
+    400016: Archexteri
+    400018: Box07
+    400020: doska_coko
+    400022: doska_Klum
+    400024: //RootNode
+    400026: ground_klu
+    400028: sub01
+    400030: sub02
+    2300000: ArchExter1
+    2300002: ArchExter2
+    2300004: ArchExter3
+    2300006: ArchExter4
+    2300008: ArchExter5
+    2300010: ArchExter6
+    2300012: ArchExter7
+    2300014: ArchExter8
+    2300016: Box07
+    2300018: doska_coko
+    2300020: doska_Klum
+    2300022: ground_klu
+    2300024: sub01
+    2300026: sub02
+    3300000: ArchExter1
+    3300002: ArchExter2
+    3300004: ArchExter3
+    3300006: ArchExter4
+    3300008: ArchExter5
+    3300010: ArchExter6
+    3300012: ArchExter7
+    3300014: ArchExter8
+    3300016: Box07
+    3300018: doska_coko
+    3300020: doska_Klum
+    3300022: ground_klu
+    3300024: sub01
+    3300026: sub02
+    4300000: ground_klu
+    4300002: doska_Klum
+    4300004: Box07
+    4300006: doska_coko
+    4300008: sub01
+    4300010: sub02
+    4300012: ArchExter1
+    4300014: ArchExter2
+    4300016: ArchExter3
+    4300018: ArchExter4
+    4300020: ArchExter5
+    4300022: ArchExter6
+    4300024: ArchExter7
+    4300026: ArchExter8
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
