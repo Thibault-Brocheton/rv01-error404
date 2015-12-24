@@ -1,0 +1,62 @@
+{
+	"server": {
+		"sleep": 1,
+		"local": false
+	},
+	"externalDevices": {
+		"/optitrackG": {
+			"deviceName": "roueG",
+			"server": "127.0.0.1:3888",
+			"descriptor": {
+				"interfaces": {
+					"tracker": {
+						"count": 1,
+						"bounded": true,
+						"position": true,
+						"orientation": true
+					},
+					"button": {},
+					"analog": {}
+				}
+			}
+		},
+		"/optitrackD": {
+			"deviceName": "roueD",
+			"server": "127.0.0.1:3888",
+			"descriptor": {
+				"interfaces": {
+					"tracker": {
+						"count": 1,
+						"bounded": true,
+						"position": true,
+						"orientation": true
+					},
+					"button": {},
+					"analog": {}
+				}
+			}
+		}
+	},
+	"aliases": {
+		"/me/roueG": {
+			"child": {
+				"changeBasis": {
+					"x": "x",
+					"y": "-z",
+					"z": "-y"
+				},
+				"child": "/optitrackG/tracker/0"
+			}
+		},
+		"/me/roueD": {			
+			"child": {
+				"changeBasis": {
+					"x": "x",
+					"y": "-z",
+					"z": "-y"
+				},
+				"child": "/optitrackD/tracker/0"
+			}
+		}
+	}
+}
